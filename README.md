@@ -1,0 +1,2 @@
+# senacteste
+VSCode para GitHub
